@@ -1,0 +1,15 @@
+bdk:
+  host: develop2.symphony.com
+  bot:
+    username: renderer-bot
+    privateKey:
+      path: rsa/privatekey.pem
+
+logging:
+  level:
+    com.symphony: info
+    com.symphony.bdk.core: error
+
+spring:
+  main:
+    banner-mode: off
