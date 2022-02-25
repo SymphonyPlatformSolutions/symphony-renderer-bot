@@ -1,6 +1,5 @@
 .idea/
 *.iml
-.mvn
 rsa/
 target/
 deploy/
